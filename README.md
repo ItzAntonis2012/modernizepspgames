@@ -4,14 +4,14 @@ The Artwork i Mentioned is if you want to add the games to steam as Non-Steam Ga
 
 REPOSITORY IS BEING SET UP! SO NO GUIDES, LINKS AND ETC. YET!!!
 
-My texture packs are already existing texture packs that i combined, edited, some even recreated and rehashed to one. The Entire Steam artwork is off Steamgriddb except gta ctw steam banner which i made myself.
+My texture packs are already existing texture packs that i combined, edited, some even recreated and rehashed to one. The Entire Steam artwork is edited or just plain off Steamgriddb except gta ctw steam banner which i made myself.
 So here are the **Credits:**
 | TEXTURE PACKS |
 GTA LCS : Sonofugly (https://github.com/SonofUgly/LCS-Texture-Pack) , Mentraze (https://gtaforums.com/topic/1000632-grand-theft-auto-liberty-city-stories-hq-hud-for-pcsx2/)
 GTA VCS : Sonofugly (https://github.com/SonofUgly/VCS-Texture-Pack) , Tervel1337 (https://gtaforums.com/topic/983317-grand-theft-auto-vice-city-stories-hd-hud-for-pcsx2/)
 
 | STEAM ARTWORK |
-GTA LCS :
-GTA VCS :
-GTA CTW : GRID (https://www.steamgriddb.com/grid/114781) 
-SIMPSONS : 
+GTA LCS : GRID (https://www.steamgriddb.com/grid/52215) , HERO (https://www.steamgriddb.com/hero/46248) , LOGO (https://www.steamgriddb.com/logo/31423)
+GTA VCS : GRID (https://www.steamgriddb.com/grid/128220) , HERO (https://www.steamgriddb.com/hero/46249) , LOGO (https://www.steamgriddb.com/logo/31425) , ICON (https://www.steamgriddb.com/icon/2385, https://www.steamgriddb.com/icon/2016)
+GTA CTW : GRID (https://www.steamgriddb.com/grid/114781) , LOGO (https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_Chinatown_Wars_logo.png)
+THE SIMPSONS GAME : GRID (https://www.steamgriddb.com/grid/285131) , HERO (https://www.steamgriddb.com/hero/57039) , LOGO  
