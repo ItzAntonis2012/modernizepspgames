@@ -2,7 +2,7 @@
 This is a Repository Where i Upload HD Texture Packs or Artwork i Made and Giving guides and Files to Get the Best Experience out of Those Games. this is PPSSPP only!
 The Artwork i Mentioned is if you want to add the games to steam as Non-Steam Games.
 
-REPOSITORY IS BEING SET UP! SO NO GUIDES, LINKS AND ETC. YET!!!
+REPOSITORY IS BEING SET UP! SO NO GUIDES YET!!!
 
 My texture packs are already existing texture packs that i combined, edited, some even recreated and rehashed to one. The Entire Steam artwork is edited or just plain off Steamgriddb except gta ctw steam banner which i made myself.
 So here are the **Credits:**
