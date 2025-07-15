@@ -14,4 +14,4 @@ GTA VCS : Sonofugly (https://github.com/SonofUgly/VCS-Texture-Pack) , Tervel1337
 GTA LCS : GRID (https://www.steamgriddb.com/grid/52215) , HERO (https://www.steamgriddb.com/hero/46248) , LOGO (https://www.steamgriddb.com/logo/31423)
 GTA VCS : GRID (https://www.steamgriddb.com/grid/128220) , HERO (https://www.steamgriddb.com/hero/46249) , LOGO (https://www.steamgriddb.com/logo/31425) , ICON (https://www.steamgriddb.com/icon/2385, https://www.steamgriddb.com/icon/2016)
 GTA CTW : GRID (https://www.steamgriddb.com/grid/114781) , LOGO (https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_Chinatown_Wars_logo.png)
-THE SIMPSONS GAME : GRID (https://www.steamgriddb.com/grid/285131) , HERO (https://www.steamgriddb.com/hero/57039) , LOGO  
+THE SIMPSONS GAME : GRID (https://www.steamgriddb.com/grid/285131) , HERO (https://www.steamgriddb.com/hero/57039) , LOGO  (https://www.steamgriddb.com/hero/57039) , ICON (https://www.steamgriddb.com/icon/23425)
