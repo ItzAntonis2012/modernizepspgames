@@ -1,3 +1,3 @@
-# modernizepspgames
-this is a repository where i upload hd texture packs or artwork i made and giving guides and files to get the best experience out of those games. this is PPSSPP only!
-This repository is being set up so no files yet.
+# Modernize PSP Games
+This is a Repository Where i Upload HD Texture Packs or Artwork i Made and Giving guides and Files to Get the Best Experience out of Those Games. this is PPSSPP only!
+The Artwork i Mentioned is if you want to add the games to steam as Non-Steam Games.
