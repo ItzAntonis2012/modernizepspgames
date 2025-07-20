@@ -1,10 +1,33 @@
 # Modernize PSP Games
 This is a Repository Where i Upload HD Texture Packs or Artwork i Made and Giving guides and Files to Get the Best Experience out of Those Games. this is PPSSPP only!
 The Artwork i Mentioned is if you want to add the games to steam as Non-Steam Games.
+# Guides
+**| Chapter 1: Texture Pack Installation |**      
+* Step 1. Download your desired texture pack.      
+* Step 2. Rename the .zip to textures (Example: gtavcs_texturepack_psp.zip -> textures.zip)      
+* Step 3. If you are on the portable version of PPSSPP go to : (PPSSPP Directory)/memstick/PSP/TEXTURES/(Game ID) and paste it here      
+  If you are on the Installed Version of PPSSPP go to : (Usually The Documents Folder)/PPSSPP/TEXTURES/(Game ID) and paste it here      
+* Notes: If theres no folders in TEXTURES Try Launching your Desired Game and it should appear. if multiple folders exist and you are unsure which folder is for which game, Open Game Details in PPSSPP and it should show it to you right next to the Game Icon. **Example Picture:**<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/90270bd5-5a3d-4124-aa60-3570ee78c160" />
 
-Please Note that for the texture pack to work you need to rename it as textures.zip . Place it in (PPSSPP Directory or PSP Folder)/memstick/PSP/TEXTURES/(GAME ID)
+**| Chapter 2a (Optional): Steam Artwork and Adding A Game to Steam As Non-Steam |**      
 
-REPOSITORY IS BEING SET UP! SO NO GUIDES YET!!!
+If you want to add those games to Steam as Non-Steam Here's How to do that.       
+* Step 1. Open Steam
+* Step 2. On The Bottom Left Press the Add a Game Button.
+* Step 3. On The Submenu That it opens Select Add a Non-Steam Game...
+* Step 4. On The new Window Press Browse And go to the PPSSPP directory and select PPSSPPWindows64.exe
+* Step 5. Press Add Selected Programs
+* Step 6. Go To Your Library and Open the Newely Added Game's Properties
+* Step 7. On The Target Go The Very End (To the Right), Leave a space and inside quotes write the ROM's Directory     
+**Example at how it all should look together:**<img width="1440" height="858" alt="image" src="https://github.com/user-attachments/assets/98297a54-8aa8-439b-a7d0-b9f7a231f127" />
+
+**| Chapter 2b (Optional): Steam Artwork and Adding A Game to Steam As Non-Steam |**
+Now for the artwork.
+* Step 1: While you are still on the Properties Tab Press The PPSSPP Icon, From the Window go to your artwork directory and select the icon.        
+* Step 2: Now Close The Properties and select the game if you havent already and from there press right click on the empty top part and Select Add Custom Background. Again, From the Window go to your artwork directory and select the banner/hero.      
+* Step 3: After your done, Press Right Click again on the now new Background and Select Add Custom Logo. Once Again, Again, From the Window go to your artwork directory and select the Logo.    
+* Step 4: From There Press on the top right     
+
 # Credits 
 My texture packs are already existing texture packs that i combined, edited, some even recreated and rehashed to one. The Entire Steam artwork is edited or just plain off Steamgriddb except gta ctw steam banner which i made myself.
 So here are the Credits:
