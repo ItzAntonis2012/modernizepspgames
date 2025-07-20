@@ -17,7 +17,7 @@ If you want to add those games to Steam as Non-Steam Here's How to do that.
 * Step 3. On The Submenu That it opens Select Add a Non-Steam Game...
 * Step 4. On The new Window Press Browse And go to the PPSSPP directory and select PPSSPPWindows64.exe
 * Step 5. Press Add Selected Programs
-* Step 6. Go To Your Library and Open the Newely Added Game's Properties
+* Step 6. Go To Your Library and Open the Newely Added Game's Properties And Name it However you want.
 * Step 7. On The Target Go The Very End (To the Right), Leave a space and inside quotes write the ROM's Directory     
 **Example at how it all should look together:**<img width="1440" height="858" alt="image" src="https://github.com/user-attachments/assets/98297a54-8aa8-439b-a7d0-b9f7a231f127" />
 
@@ -25,11 +25,12 @@ If you want to add those games to Steam as Non-Steam Here's How to do that.
 Now for the artwork.
 * Step 1: While you are still on the Properties Tab Press The PPSSPP Icon, From the Window go to your artwork directory and select the icon.        
 * Step 2: Now Close The Properties and select the game if you havent already and from there press right click on the empty top part and Select Add Custom Background. Again, From the Window go to your artwork directory and select the banner/hero.      
-* Step 3: After your done, Press Right Click again on the now new Background and Select Add Custom Logo. Once Again, Again, From the Window go to your artwork directory and select the Logo.    
-* Step 4: From There Press on the top right     
+* Step 3: After your done, Press Right Click again on the now new Background and Select Add Custom Logo. Once Again, From the Window go to your artwork directory and select the Logo.    
+* Step 4: From There Press on the top right the Wide Button saying Home and scroll down till you see an empty grid saying the Game's Name. Right Click On it, press Manage and Select Custom Artwork. As Usual, From the Window go to your artwork directory and select the Grid.      
+And Thats It!! Hope you like it.         
 
 # Credits 
-My texture packs are already existing texture packs that i combined, edited, some even recreated and rehashed to one. The Entire Steam artwork is edited or just plain off Steamgriddb except gta ctw steam banner which i made myself.
+My texture packs are already existing texture packs that i combined, edited, some even recreated and rehashed to one. The Entire Steam artwork is edited or just plain off Steamgriddb except gta ctw steam banner and icon which i made myself.
 So here are the Credits:
 
 | TEXTURE PACKS |
