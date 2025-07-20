@@ -34,8 +34,8 @@ My texture packs are already existing texture packs that i combined, edited, som
 So here are the Credits:
 
 | TEXTURE PACKS |
-**GTA LCS** : Sonofugly (https://github.com/SonofUgly/LCS-Texture-Pack) , Mentraze (https://gtaforums.com/topic/1000632-grand-theft-auto-liberty-city-stories-hq-hud-for-pcsx2/) , ThirteenAG (https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtavcspsp)
-**GTA VCS** : Sonofugly (https://github.com/SonofUgly/VCS-Texture-Pack) , Tervel1337 (https://gtaforums.com/topic/983317-grand-theft-auto-vice-city-stories-hd-hud-for-pcsx2/) , ThirteenAG (https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtalcspsp)
+**GTA LCS** : Sonofugly (https://github.com/SonofUgly/LCS-Texture-Pack) , Mentraze (https://gtaforums.com/topic/1000632-grand-theft-auto-liberty-city-stories-hq-hud-for-pcsx2/) , ThirteenAG (https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtalcspsp)
+**GTA VCS** : Sonofugly (https://github.com/SonofUgly/VCS-Texture-Pack) , Tervel1337 (https://gtaforums.com/topic/983317-grand-theft-auto-vice-city-stories-hd-hud-for-pcsx2/) , ThirteenAG (https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtavcspsp)
 
 | STEAM ARTWORK |
 **GTA LCS** : GRID (https://www.steamgriddb.com/grid/52215) , HERO (https://www.steamgriddb.com/hero/46248) , LOGO (https://www.steamgriddb.com/logo/31423)
