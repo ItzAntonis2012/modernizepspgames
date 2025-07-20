@@ -1,6 +1,7 @@
 # Modernize PSP Games
-This is a Repository Where i Upload HD Texture Packs or Artwork i Made and Giving guides and Files to Get the Best Experience out of Those Games. this is PPSSPP only!
-The Artwork i Mentioned is if you want to add the games to steam as Non-Steam Games.
+This is a Repository Where i Upload HD Texture Packs or Artwork i Made , Giving guides and Files to Get the Best Experience out of Those Games. this is PPSSPP only!
+The Artwork i Mentioned is if you want to add the games to steam as Non-Steam Games. This Repo Also Includes an png which is a recreation of the Steam Controller Required Indicator Found In Games Like Aperture Desk Job Incase you want to add it in your own custom banner/hero. This Readme.md Files Includes : Guides splitted into 3 chapters, Description and Credits
+
 # Guides
 **| Chapter 1: Texture Pack Installation |**      
 * Step 1. Download your desired texture pack.      
