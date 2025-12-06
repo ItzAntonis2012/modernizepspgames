@@ -49,3 +49,6 @@ So here are the Credits:
 I mentioned on the GTA CTW texture pack, that you should use SonofUgly's Texture Pack for HD Icons, i only provide an texture for Xbox Buttons on my Pack. If you Want HD + Xbox,
 Use SonofUgly's Pack as i said, and just replace the Buttons.png on the HUD Folder.
 **LINK** : https://github.com/SonofUgly/CW-Texture-Pack
+
+| INFO |
+This Repo Is An Reupload From My Original One, Released on 23 of July 2025 (23/7/2025)
