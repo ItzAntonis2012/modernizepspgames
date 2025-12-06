@@ -51,4 +51,4 @@ Use SonofUgly's Pack as i said, and just replace the Buttons.png on the HUD Fold
 **LINK** : https://github.com/SonofUgly/CW-Texture-Pack
 
 | INFO |
-This Repo Is An Reupload From My Original One, Released on 23 of July 2025 (23/7/2025)
+This Repo Is An Reupload From My Original One, Released on **23 of July 2025 (23/7/2025)** , Reuploaded Due to Original Being Messy.
