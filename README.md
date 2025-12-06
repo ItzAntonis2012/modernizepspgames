@@ -21,7 +21,7 @@ If you want to add those games to Steam as Non-Steam Here's How to do that.
 * Step 5. Press Add Selected Programs
 * Step 6. Go To Your Library and Open the Newely Added Game's Properties And Name it However you want.
 * Step 7. On The Target Go The Very End (To the Right), Leave a space and inside quotes write the ROM's Directory     
-**Example at how it all should look together:<img width="1440" height="858" alt="image" src="https://github.com/user-attachments/assets/78019693-89fe-4364-a3c2-ecd3f3ef2c53" />
+**Example at how it all should look together**:<img width="1440" height="858" alt="image" src="https://github.com/user-attachments/assets/78019693-89fe-4364-a3c2-ecd3f3ef2c53" />
 
 **| Chapter 2b (Optional): Steam Artwork and Adding a Game to Steam As Non-Steam |**
 Now for the artwork.
