@@ -45,7 +45,7 @@ So here are the Credits:
 **GTA CTW** : GRID (https://www.steamgriddb.com/grid/114781) , LOGO (https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_Chinatown_Wars_logo.png)
 **THE SIMPSONS GAME** : GRID (https://www.steamgriddb.com/grid/285131) , HERO (https://www.steamgriddb.com/hero/57039) , LOGO  (https://www.steamgriddb.com/hero/57039) , ICON (https://www.steamgriddb.com/icon/23425)
 
-|MENTIONS|
+| MENTIONS |
 I mentioned on the GTA CTW texture pack, that you should use SonofUgly's Texture Pack for HD Icons, i only provide an texture for Xbox Buttons on my Pack. If you Want HD + Xbox,
 Use SonofUgly's Pack as i said, and just replace the Buttons.png on the HUD Folder.
 **LINK** : https://github.com/SonofUgly/CW-Texture-Pack
